@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(242, 242, 243);
+}
+.opções{
+    text-align:right;
+    
+}
+.Login-nome{
+    text-align:center;
+    color: #262685;
+}
+.button{
+    
+    color:white;
+    background-color: rgb(75, 75, 194);
+    border-radius: 10px;
+}
+.nome{
+    border-radius:10px;
+}
+.senha{
+    border-radius:10px;
+}
